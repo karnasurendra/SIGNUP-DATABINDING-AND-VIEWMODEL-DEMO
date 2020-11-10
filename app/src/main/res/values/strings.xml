@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="first_name_header">"First Name : "</string>
+    <string name="first_name_hint">First Name...</string>
+    <string name="last_name_header">"Last Name : "</string>
+    <string name="last_name_hint">Last Name...</string>
+    <string name="email_header">"Email : "</string>
+    <string name="email_hint">xxxx@x.com</string>
+    <string name="password_header">"Password : "</string>
+    <string name="password_hint">xxxxxx</string>
+    <string name="confirm_password_header">Confirm Password :</string>
+    <string name="sign_up">SIGNUP</string>
+</resources>
